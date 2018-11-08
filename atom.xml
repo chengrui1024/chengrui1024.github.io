@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-06T04:59:52.266Z</updated>
+  <updated>2018-11-08T08:54:00.818Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一次使用</title>
+    <link href="http://yoursite.com/2018/11/08/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2018/11/08/第一次使用/</id>
+    <published>2018-11-08T08:47:53.000Z</published>
+    <updated>2018-11-08T08:54:00.818Z</updated>
+    
+    <content type="html"><![CDATA[<p> 第一次用用这个博客，以后的技术文档，个人感想，以及学术研究都会在这个上面公布。会试着增加留言板，游客登陆以及浏览人次的功能。敬请期待吧。<br>                <img src="/20181108164856292/20181108045326158.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; 第一次用用这个博客，以后的技术文档，个人感想，以及学术研究都会在这个上面公布。会试着增加留言板，游客登陆以及浏览人次的功能。敬请期待吧。&lt;br&gt;                &lt;img src=&quot;/20181108164856292/20181108045326158.p
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello hexo markdown</title>
+    <link href="http://yoursite.com/2018/11/08/hello-hexo-markdown/"/>
+    <id>http://yoursite.com/2018/11/08/hello-hexo-markdown/</id>
+    <published>2018-11-08T08:21:30.000Z</published>
+    <updated>2018-11-08T08:21:30.728Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>sadf</title>
